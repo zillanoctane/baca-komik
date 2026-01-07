@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<launch4jConfig>
+  <dontWrapJar>false</dontWrapJar>
+  <headerType>gui</headerType>
+  <jar>Z:\home\devactivity\kuliah\pem2\project2\bacaKomik\target\bacaKomik.jar</jar>
+  <outfile>Z:\home\devactivity\kuliah\pem2\ucup\Manga-Santuy.exe</outfile>
+  <errTitle></errTitle>
+  <cmdLine></cmdLine>
+  <chdir>.</chdir>
+  <priority>normal</priority>
+  <downloadUrl></downloadUrl>
+  <supportUrl></supportUrl>
+  <stayAlive>true</stayAlive>
+  <restartOnCrash>false</restartOnCrash>
+  <manifest></manifest>
+  <icon>Z:\home\devactivity\Downloads\Gemini_Generated_Image_9npuyh9npuyh9npu-removebg-preview(1).ico</icon>
+  <jre>
+    <path>%JAVA_HOME%;%PATH%</path>
+    <requiresJdk>false</requiresJdk>
+    <requires64Bit>false</requires64Bit>
+    <minVersion>8</minVersion>
+    <maxVersion></maxVersion>
+  </jre>
+</launch4jConfig>

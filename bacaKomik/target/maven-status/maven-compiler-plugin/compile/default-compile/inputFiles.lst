@@ -1,0 +1,15 @@
+/home/devactivity/kuliah/pem2/project2/bacaKomik/src/main/java/com/myproject/bacakomik/BacaKomik.java
+/home/devactivity/kuliah/pem2/project2/bacaKomik/src/main/java/com/myproject/controller/MangaController.java
+/home/devactivity/kuliah/pem2/project2/bacaKomik/src/main/java/com/myproject/model/ChapterInfo.java
+/home/devactivity/kuliah/pem2/project2/bacaKomik/src/main/java/com/myproject/model/ChapterPage.java
+/home/devactivity/kuliah/pem2/project2/bacaKomik/src/main/java/com/myproject/model/Manga.java
+/home/devactivity/kuliah/pem2/project2/bacaKomik/src/main/java/com/myproject/model/MangaInfo.java
+/home/devactivity/kuliah/pem2/project2/bacaKomik/src/main/java/com/myproject/model/MangaSummary.java
+/home/devactivity/kuliah/pem2/project2/bacaKomik/src/main/java/com/myproject/model/PaginatedResponse.java
+/home/devactivity/kuliah/pem2/project2/bacaKomik/src/main/java/com/myproject/model/SearchSuggestion.java
+/home/devactivity/kuliah/pem2/project2/bacaKomik/src/main/java/com/myproject/service/MangaService.java
+/home/devactivity/kuliah/pem2/project2/bacaKomik/src/main/java/com/myproject/utils/Utils.java
+/home/devactivity/kuliah/pem2/project2/bacaKomik/src/main/java/com/myproject/view/DetailViewUI.java
+/home/devactivity/kuliah/pem2/project2/bacaKomik/src/main/java/com/myproject/view/HomeViewUI.java
+/home/devactivity/kuliah/pem2/project2/bacaKomik/src/main/java/com/myproject/view/MainView.java
+/home/devactivity/kuliah/pem2/project2/bacaKomik/src/main/java/com/myproject/view/ReaderViewUI.java
